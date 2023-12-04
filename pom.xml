@@ -34,7 +34,7 @@
             <artifactId>mp3agic</artifactId>
             <version>0.9.1</version>
         </dependency>
-        <!-- Only needed to run tests in a version of IntelliJ IDEA that bundles older versions -->
+        <!-- Only needed to run tests in a version of IntelliJ IDEA that bundles older versionsss -->
         <dependency>
             <groupId>org.junit.platform</groupId>
             <artifactId>junit-platform-launcher</artifactId>
